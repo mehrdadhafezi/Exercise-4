@@ -1,0 +1,15 @@
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\bin\Debug\net6.0\.vscode.exe
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\bin\Debug\net6.0\.vscode.deps.json
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\bin\Debug\net6.0\.vscode.runtimeconfig.json
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\bin\Debug\net6.0\.vscode.dll
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\bin\Debug\net6.0\.vscode.pdb
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.AssemblyInfoInputs.cache
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.AssemblyInfo.cs
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.dll
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\refint\.vscode.dll
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.pdb
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\.vscode.genruntimeconfig.cache
+C:\Users\Mehrdad\Desktop\Exercise 4\.vscode\obj\Debug\net6.0\ref\.vscode.dll
