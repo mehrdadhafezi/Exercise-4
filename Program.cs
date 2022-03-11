@@ -18,8 +18,4 @@ if (a<2000000)
     System.Console.WriteLine(a*0);
 }
 
-
-
-
-
 }
